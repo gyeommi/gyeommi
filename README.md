@@ -47,6 +47,5 @@
 | 구분 | 링크 |
 |------|------|
 | 💻 GitHub | [**github.com/gyeommi**](https://github.com/gyeommi) |
-| 📁 Portfolio | [**gyeommi-dev**](https://gyeommi-dev.tistory.com/portfolio) |
 | ✍️ Dev Blog | [**gyeommi-dev.tistory.com**](https://gyeommi-dev.tistory.com/) |
 | 📧 Email | [**kkm417417@naver.com**](mailto:kkm417417@naver.com) |
