@@ -7,7 +7,6 @@
 **Game Developer | Unity & C# | Interactive & Immersive Experiences**
 
 [![GitHub](https://img.shields.io/badge/GitHub-gyeommi-181717?style=plastic&logo=github&logoColor=white)](https://github.com/gyeommi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-gyeommi--dev-E7600A?style=plastic&logo=tistory&logoColor=white)](https://gyeommi-dev.tistory.com/portfolio)
 [![Blog](https://img.shields.io/badge/Blog-Tistory-E7600A?style=plastic&logo=tistory&logoColor=white)](https://gyeommi-dev.tistory.com/)
 
 [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=km01)](https://www.acmicpc.net/user/km01)
